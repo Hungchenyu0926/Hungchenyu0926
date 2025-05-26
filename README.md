@@ -1,16 +1,14 @@
-## Hi there 👋
+### CHEN-YU-HUNG (洪振育)
 
-<!--
-**Hungchenyu0926/Hungchenyu0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in **community pharmacy**  
+- 🌱 I’m currently learning **Python**, **workflow automation**, and **integrating AI tools into practical work**  
+- 🤝 I’m looking to collaborate with **long-term care residential institutions** and **community-based care programs**  
+- 🧠 I’m seeking support from **experts in database programming and interface integration**  
+- 📫 How to reach me: **Email** → powerapollo@gmail.com  
+- 🎥 My YouTube channel: [@hungchenyulife](https://www.youtube.com/@hungchenyulife)  
+[![YouTube Channel](https://img.shields.io/badge/YouTube-hungchenyulife-red?logo=youtube)](https://www.youtube.com/@hungchenyulife)
+
